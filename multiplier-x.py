@@ -4,5 +4,5 @@ def keer(x:int):
        print( x * a )
 
 
-getal = int(input("vVan welk getal wilt u de tafel zien: "))
+getal = int(input("Van welk getal wilt u de tafel zien: "))
 keer(getal)
